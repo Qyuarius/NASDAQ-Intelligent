@@ -1,0 +1,383 @@
+{
+  "generated_at": "2026-06-13T00:00:00",
+  "gurus": [
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "title": "CEO — Tesla, SpaceX, xAI",
+      "bio": "Elon Musk owns ~20% of Tesla through direct shares and exercisable options. His net worth is primarily concentrated in Tesla and privately-held SpaceX (~40% stake). SpaceX acquired xAI in Feb 2026. Musk does not hold any known publicly traded stocks outside of Tesla.",
+      "source": "SEC 13G/A filing — April 21, 2026",
+      "holdings": [
+        {
+          "ticker": "TSLA",
+          "name": "Tesla Inc",
+          "shares": 717112739,
+          "value": 298200000000,
+          "pct_of_portfolio": 100,
+          "type": "LONG",
+          "note": "413M direct + 304M exercisable options"
+        }
+      ]
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "title": "CEO & Co-Founder — NVIDIA",
+      "bio": "Jensen Huang is the largest individual shareholder of NVIDIA with 870.6M shares (3.58%) held through trusts, LLCs, and directly. His total beneficial ownership is worth ~$191B at current prices. Most shares are held through the Jen-Hsun & Lori Huang Living Trust.",
+      "source": "NVIDIA 2026 Proxy Statement — March 23, 2026",
+      "holdings": [
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA Corporation",
+          "shares": 870604104,
+          "value": 191100000000,
+          "pct_of_portfolio": 100,
+          "type": "LONG",
+          "note": "3.58% of NVIDIA — via trust, LLCs, irrevocable trusts, foundation"
+        }
+      ]
+    },
+    {
+      "id": "leopold-aschenbrenner",
+      "name": "Leopold Aschenbrenner",
+      "title": "Founder — Situational Awareness LP (ex-OpenAI Superalignment)",
+      "bio": "Former OpenAI Superalignment researcher who turned $225M into $20B+ through a hedge fund betting on AI infrastructure. His thesis: AGI requires massive physical infrastructure — power, GPU clouds, and data centers. He shorts overvalued semiconductor names while going long on power and compute infrastructure. Fund posted +270% YTD through May 2026.",
+      "source": "SEC 13F — Q1 2026 (March 31, 2026) + 13G Nebius (May 27, 2026)",
+      "holdings": [
+        {
+          "ticker": "BE",
+          "name": "Bloom Energy",
+          "shares": 6485408,
+          "value": 878707930,
+          "pct_of_portfolio": 22.79,
+          "type": "LONG",
+          "note": "On-site fuel cells for data center power — flagship long position"
+        },
+        {
+          "ticker": "SNDK",
+          "name": "SanDisk",
+          "shares": 1140119,
+          "value": 724363205,
+          "pct_of_portfolio": 18.79,
+          "type": "LONG",
+          "note": "Memory/storage for AI infrastructure — added 8%"
+        },
+        {
+          "ticker": "CRWV",
+          "name": "CoreWeave",
+          "shares": 7177919,
+          "value": 556073385,
+          "pct_of_portfolio": 14.42,
+          "type": "LONG",
+          "note": "GPU cloud provider — added 18%"
+        },
+        {
+          "ticker": "IREN",
+          "name": "IREN Limited",
+          "shares": 11698835,
+          "value": 401036064,
+          "pct_of_portfolio": 10.4,
+          "type": "LONG",
+          "note": "Bitcoin miner pivoting to AI GPU hosting — added 34%"
+        },
+        {
+          "ticker": "CORZ",
+          "name": "Core Scientific",
+          "shares": 26008473,
+          "value": 389086756,
+          "pct_of_portfolio": 10.09,
+          "type": "LONG",
+          "note": "Crypto miner pivoting to AI data centers — 9.4% activist stake"
+        },
+        {
+          "ticker": "APLD",
+          "name": "Applied Digital",
+          "shares": 13478438,
+          "value": 319978118,
+          "pct_of_portfolio": 8.3,
+          "type": "LONG",
+          "note": "AI data center hosting — GPU cloud infrastructure"
+        },
+        {
+          "ticker": "RIOT",
+          "name": "Riot Platforms",
+          "shares": 11502137,
+          "value": 142166413,
+          "pct_of_portfolio": 3.69,
+          "type": "LONG",
+          "note": "Crypto miner with high-density power sites for AI — added 86%"
+        },
+        {
+          "ticker": "CLSK",
+          "name": "CleanSpark",
+          "shares": 12276139,
+          "value": 104469943,
+          "pct_of_portfolio": 2.71,
+          "type": "LONG",
+          "note": "Bitcoin miner with pre-connected power infrastructure — added 648%"
+        },
+        {
+          "ticker": "SEI",
+          "name": "Solaris Energy Infra",
+          "shares": 1105551,
+          "value": 62474687,
+          "pct_of_portfolio": 1.62,
+          "type": "LONG",
+          "note": "Power infrastructure for data centers — trimmed 41%"
+        },
+        {
+          "ticker": "TE",
+          "name": "T1 Energy",
+          "shares": 10000000,
+          "value": 43900000,
+          "pct_of_portfolio": 1.14,
+          "type": "LONG",
+          "note": "NEW — Solar/battery manufacturer, ~3.6% of company"
+        },
+        {
+          "ticker": "BITF",
+          "name": "Bitfarms",
+          "shares": 19875840,
+          "value": 38757888,
+          "pct_of_portfolio": 1.01,
+          "type": "LONG",
+          "note": "Bitcoin miner — added 188%"
+        },
+        {
+          "ticker": "BTDR",
+          "name": "Bitdeer Technologies",
+          "shares": 3439450,
+          "value": 29751243,
+          "pct_of_portfolio": 0.77,
+          "type": "LONG",
+          "note": "Bitcoin miner with AI compute pivot — added 92%"
+        },
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA Corporation",
+          "shares": 2855,
+          "value": 497912,
+          "pct_of_portfolio": 0.01,
+          "type": "SHORT",
+          "note": "PUT OPTIONS — ~$2B+ notional bearish bet on overvalued semis"
+        },
+        {
+          "ticker": "SMH",
+          "name": "VanEck Semiconductor ETF",
+          "shares": 26950,
+          "value": 10332630,
+          "pct_of_portfolio": 0.27,
+          "type": "SHORT",
+          "note": "PUT OPTIONS — ~$2.04B notional short entire semiconductor index"
+        },
+        {
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices",
+          "shares": 99138,
+          "value": 20167643,
+          "pct_of_portfolio": 0.52,
+          "type": "SHORT",
+          "note": "PUT OPTIONS — bearish on overvalued chipmaker"
+        }
+      ]
+    },
+    {
+      "id": "warren-buffett",
+      "name": "Warren Buffett",
+      "title": "Chairman & CEO — Berkshire Hathaway",
+      "bio": "Warren Buffett is one of the most successful investors of all time, running Berkshire Hathaway with a $263B portfolio. Known as the 'Oracle of Omaha', he built his fortune through value investing and long-term compounding. Berkshire recently trimmed its portfolio from 40 to 26 positions and massively increased its Alphabet stake by 204%.",
+      "source": "SEC 13F — Q1 2026 (March 31, 2026)",
+      "holdings": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple Inc",
+          "shares": 227917808,
+          "value": 57800000000,
+          "pct_of_portfolio": 21.99,
+          "type": "LONG",
+          "note": "Largest position — 22% of portfolio"
+        },
+        {
+          "ticker": "AXP",
+          "name": "American Express",
+          "shares": 151610700,
+          "value": 45900000000,
+          "pct_of_portfolio": 17.43,
+          "type": "LONG",
+          "note": "Second largest position"
+        },
+        {
+          "ticker": "KO",
+          "name": "Coca-Cola",
+          "shares": 400000000,
+          "value": 30400000000,
+          "pct_of_portfolio": 11.56,
+          "type": "LONG",
+          "note": "Held since 1988 — 400M shares unchanged"
+        },
+        {
+          "ticker": "BAC",
+          "name": "Bank of America",
+          "shares": 513624165,
+          "value": 25000000000,
+          "pct_of_portfolio": 9.52,
+          "type": "LONG",
+          "note": "Trimmed 0.7% this quarter"
+        },
+        {
+          "ticker": "CVX",
+          "name": "Chevron",
+          "shares": 84375856,
+          "value": 17500000000,
+          "pct_of_portfolio": 6.64,
+          "type": "LONG",
+          "note": "Reduced 35.2% this quarter"
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet",
+          "shares": 54249798,
+          "value": 15600000000,
+          "pct_of_portfolio": 5.93,
+          "type": "LONG",
+          "note": "NEW — Increased 204% this quarter"
+        }
+      ]
+    },
+    {
+      "id": "cathie-wood",
+      "name": "Cathie Wood",
+      "title": "CEO & CIO — ARK Invest",
+      "bio": "Cathie Wood founded ARK Invest in 2014, focusing on disruptive innovation across AI, genomics, fintech, and autonomous tech. Her flagship ARK Innovation ETF (ARKK) has $6.7B in AUM with 48 holdings. She is one of the most vocal bulls on Tesla, AI, and genomics. Her portfolio tilted further into AI and crypto this quarter with increases in AMD, CRSP, Temus AI, Robinhood, and Coinbase.",
+      "source": "SEC 13F — Q1 2026 (March 31, 2026)",
+      "holdings": [
+        {
+          "ticker": "TSLA",
+          "name": "Tesla Inc",
+          "shares": 1711759,
+          "value": 669000000,
+          "pct_of_portfolio": 10.12,
+          "type": "LONG",
+          "note": "Largest position — flagship conviction"
+        },
+        {
+          "ticker": "CRSP",
+          "name": "CRISPR Therapeutics",
+          "shares": 6384542,
+          "value": 330000000,
+          "pct_of_portfolio": 5.0,
+          "type": "LONG",
+          "note": "Gene editing — biotech leader"
+        },
+        {
+          "ticker": "TEM",
+          "name": "Tempus AI",
+          "shares": 6887424,
+          "value": 319000000,
+          "pct_of_portfolio": 4.83,
+          "type": "LONG",
+          "note": "AI-driven precision medicine"
+        },
+        {
+          "ticker": "HOOD",
+          "name": "Robinhood Markets",
+          "shares": 3768489,
+          "value": 310000000,
+          "pct_of_portfolio": 4.7,
+          "type": "LONG",
+          "note": "Fintech — retail trading platform"
+        },
+        {
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices",
+          "shares": 660636,
+          "value": 308000000,
+          "pct_of_portfolio": 4.66,
+          "type": "LONG",
+          "note": "AI compute — increased stake"
+        },
+        {
+          "ticker": "SHOP",
+          "name": "Shopify",
+          "shares": 2672197,
+          "value": 292000000,
+          "pct_of_portfolio": 4.41,
+          "type": "LONG",
+          "note": "E-commerce platform"
+        },
+        {
+          "ticker": "ROKU",
+          "name": "Roku",
+          "shares": 2329337,
+          "value": 284000000,
+          "pct_of_portfolio": 4.28,
+          "type": "LONG",
+          "note": "Streaming platform"
+        },
+        {
+          "ticker": "COIN",
+          "name": "Coinbase Global",
+          "shares": 1542771,
+          "value": 235000000,
+          "pct_of_portfolio": 3.55,
+          "type": "LONG",
+          "note": "Crypto exchange"
+        }
+      ]
+    },
+    {
+      "id": "bill-gates",
+      "name": "Bill Gates",
+      "title": "Chairman — Gates Foundation Trust",
+      "bio": "Bill Gates' Gates Foundation Trust holds a $31.7B portfolio focused on industrials and infrastructure. Notably, Gates fully exited his entire $3.7B MSFT position this quarter, signaling a complete departure from tech equities. The portfolio is highly concentrated — top 5 holdings make up 83% of assets, centered on waste management, railways, and heavy machinery.",
+      "source": "SEC 13F — Q1 2026 (March 31, 2026)",
+      "holdings": [
+        {
+          "ticker": "BRK.B",
+          "name": "Berkshire Hathaway",
+          "shares": 17048304,
+          "value": 8169547000,
+          "pct_of_portfolio": 25.8,
+          "type": "LONG",
+          "note": "Largest position — trimmed 12%"
+        },
+        {
+          "ticker": "WM",
+          "name": "Waste Management",
+          "shares": 27642344,
+          "value": 6351934000,
+          "pct_of_portfolio": 20.06,
+          "type": "LONG",
+          "note": "Trimmed 4.5% — core infrastructure bet"
+        },
+        {
+          "ticker": "CNI",
+          "name": "Canadian National Railway",
+          "shares": 51826786,
+          "value": 5326238000,
+          "pct_of_portfolio": 16.82,
+          "type": "LONG",
+          "note": "Largest railway in North America"
+        },
+        {
+          "ticker": "CAT",
+          "name": "Caterpillar",
+          "shares": 6353614,
+          "value": 4501281000,
+          "pct_of_portfolio": 14.22,
+          "type": "LONG",
+          "note": "Heavy machinery — infrastructure play"
+        },
+        {
+          "ticker": "DE",
+          "name": "Deere & Co",
+          "shares": 3557378,
+          "value": 2003871000,
+          "pct_of_portfolio": 6.33,
+          "type": "LONG",
+          "note": "Agricultural & construction equipment"
+        }
+      ]
+    }
+  ]
+}

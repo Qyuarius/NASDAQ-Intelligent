@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "npm run dev --prefix project/frontend",
+    "build": "npm run build --prefix project/frontend",
+    "install:all": "npm install && cd project/frontend && npm install && cd ../backend && pip install -r requirements.txt"
+  },
+  "dependencies": {
+    "ecc-universal": "^2.0.0",
+    "react-router-dom": "^7.15.1"
+  }
+}

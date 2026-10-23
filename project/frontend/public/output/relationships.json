@@ -1,0 +1,945 @@
+{
+  "relationships": [
+    {
+      "source": "AAPL",
+      "target": "OPENAI",
+      "type": "partnership",
+      "label": "AI Integration (2024)",
+      "description": "Apple integrated OpenAI's ChatGPT directly into iOS and macOS as part of its Apple Intelligence suite.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ADBE",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "Enterprise Generative AI Alliance",
+      "description": "Adobe integrates its Firefly generative AI capabilities across Microsoft 365 and Dynamics 365 workflows.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ADBE",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "Generative AI Partnership (2023)",
+      "description": "Adobe and Nvidia partnered to optimize Nvidia's AI infrastructure for Adobe's Firefly generative AI models.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AMAT",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Semiconductor equipment",
+      "description": "Applied Materials supplies equipment used in NVIDIA chip manufacturing.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AMAT",
+      "target": "TSMC",
+      "type": "supply_chain",
+      "label": "Equipment Supplier (2023)",
+      "description": "Applied Materials supplies critical semiconductor manufacturing equipment to TSMC's advanced fabs.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AMD",
+      "target": "META",
+      "type": "supply_chain",
+      "label": "AI Chip Supplier (2024)",
+      "description": "Meta announced plans to deploy AMD's MI300X GPUs to scale its AI training infrastructure.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AMD",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "AI infrastructure and Windows collaboration",
+      "description": "AMD powers AI workloads on Microsoft Azure and optimizes for Windows 11.",
+      "year": 2025,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AMD",
+      "target": "MSFT",
+      "type": "supply_chain",
+      "label": "AI Chip Supplier (2023)",
+      "description": "AMD supplies its MI300 AI accelerators to Microsoft Azure as an alternative to Nvidia GPUs.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AMD",
+      "target": "OPENAI",
+      "type": "supply_chain",
+      "label": "Multi-GW AI chip deployment deal",
+      "description": "OpenAI deploys significant AMD AI chips alongside NVIDIA.",
+      "year": 2025,
+      "confidence": "reported"
+    },
+    {
+      "source": "AMZN",
+      "target": "ANTHROPIC",
+      "type": "investment",
+      "label": "Invested $4B (2023)",
+      "description": "Amazon invested up to $4 billion in Anthropic, making it a major investor alongside cloud computing partnerships.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AMZN",
+      "target": "NVDA",
+      "type": "customer",
+      "label": "AWS AI services",
+      "description": "Amazon deploys NVIDIA GPUs in AWS for customer AI workloads.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ANET",
+      "target": "META",
+      "type": "customer",
+      "label": "Cloud Networking Supplier",
+      "description": "Meta relies significantly on Arista's AI spine switches and high-performance fabric networking.",
+      "year": 2018,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ANET",
+      "target": "META",
+      "type": "supply_chain",
+      "label": "Networking Supplier (2023)",
+      "description": "Arista Networks supplies a significant portion of Meta's data center networking equipment.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ANET",
+      "target": "MSFT",
+      "type": "customer",
+      "label": "Cloud Networking Supplier",
+      "description": "Microsoft is a major customer of Arista Networks, utilizing its high-speed switching infrastructure in Azure datacenters.",
+      "year": 2016,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ANET",
+      "target": "MSFT",
+      "type": "supply_chain",
+      "label": "Networking Supplier (2023)",
+      "description": "Arista Networks supplies cloud networking switches to Microsoft Azure data centers.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ANET",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Networking Supplier (2023)",
+      "description": "Arista Networks supplies high-speed Ethernet switches for Nvidia's AI data center networking.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ANTHROPIC",
+      "target": "AMZN",
+      "type": "customer",
+      "label": "Cloud Customer (2023)",
+      "description": "Anthropic uses Amazon Web Services (AWS) as its primary cloud provider for training its Claude AI models.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ARM",
+      "target": "AAPL",
+      "type": "partnership",
+      "label": "Long-term Architecture Agreement",
+      "description": "Apple has secured a long-term architectural license agreement with ARM extending beyond 2040 for its custom silicon.",
+      "year": 1990,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ASML",
+      "target": "INTC",
+      "type": "supply_chain",
+      "label": "High-NA EUV Supplier",
+      "description": "Intel purchased and took first delivery of ASML's cutting-edge High-NA EUV lithography systems.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ASML",
+      "target": "TSMC",
+      "type": "supply_chain",
+      "label": "EUV Machine Supplier",
+      "description": "ASML supplies core EUV lithography systems that enable TSMC to manufacture leading-edge nodes.",
+      "year": 2018,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AVGO",
+      "target": "GOOGL",
+      "type": "partnership",
+      "label": "TPU Co-Development",
+      "description": "Broadcom collaborates closely with Google to design and develop its custom Tensor Processing Units (TPUs).",
+      "year": 2016,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AVGO",
+      "target": "GOOGL",
+      "type": "supply_chain",
+      "label": "Custom ASIC Supplier (2023)",
+      "description": "Broadcom designs and supplies custom AI accelerator chips (TPUs) specifically for Google's data centers.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AVGO",
+      "target": "META",
+      "type": "partnership",
+      "label": "Custom ASIC Development",
+      "description": "Broadcom co-develops Meta's custom AI infrastructure chips and routing silicon.",
+      "year": 2022,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AVGO",
+      "target": "MSFT",
+      "type": "supply_chain",
+      "label": "Networking & ASIC Supplier (2023)",
+      "description": "Broadcom supplies custom networking silicon and ASICs to Microsoft for Azure infrastructure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AVGO",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "AI technology integration",
+      "description": "Broadcom collaborates with NVIDIA to bring AI tech to VMware Cloud Foundation.",
+      "year": 2025,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AVGO",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Networking Supplier (2023)",
+      "description": "Broadcom supplies high-speed networking switches and ASICs used in Nvidia's DGX supercomputing systems.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "AVGO",
+      "target": "OPENAI",
+      "type": "partnership",
+      "label": "Custom AI accelerators",
+      "description": "Broadcom partners with OpenAI on custom inference chips.",
+      "year": 2025,
+      "confidence": "reported"
+    },
+    {
+      "source": "CRM",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "Cloud Partnership (2023)",
+      "description": "Salesforce and Microsoft partnered to integrate Salesforce CRM with Microsoft Teams and Azure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "CRM",
+      "target": "NOW",
+      "type": "partnership",
+      "label": "Strategic Workflow Integration",
+      "description": "Salesforce and ServiceNow formed a partnership to unify employee workflows and AI data sharing across platforms.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "CRM",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "AI Partnership (2023)",
+      "description": "Salesforce partnered with Nvidia to utilize Nvidia's AI infrastructure for training its Einstein AI models.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "CRWD",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "Security Partnership (2023)",
+      "description": "CrowdStrike and Microsoft partnered to integrate CrowdStrike Falcon with Microsoft Defender and Azure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "CRWD",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "AI-Powered Cybersecurity",
+      "description": "CrowdStrike partners with NVIDIA to utilize NVIDIA NIM microservices to accelerate AI threat hunting inside the Falcon platform.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "GOOGL",
+      "target": "AAPL",
+      "type": "customer",
+      "label": "Search Default Payment (2023)",
+      "description": "Google pays Apple billions annually to remain the default search engine on Safari and iOS devices.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "GOOGL",
+      "target": "ANTHROPIC",
+      "type": "investment",
+      "label": "Invested $2B+ (2023)",
+      "description": "Google committed over $2 billion to Anthropic, including an initial $500M and subsequent cloud computing credits.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "GOOGL",
+      "target": "NVDA",
+      "type": "customer",
+      "label": "TPU and GPU hybrid AI",
+      "description": "Google Cloud and data centers utilize NVIDIA GPUs alongside custom TPUs.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "IBM",
+      "target": "META",
+      "type": "partnership",
+      "label": "AI Alliance Founders",
+      "description": "IBM and Meta co-founded the AI Alliance to promote open innovation and open-source models in AI development.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "IBM",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "Enterprise AI Partnership (2023)",
+      "description": "IBM and Microsoft partnered to integrate Red Hat OpenShift with Azure and collaborate on enterprise AI solutions.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "IBM",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "Hybrid cloud AI",
+      "description": "IBM and NVIDIA partner on enterprise AI solutions.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "INTC",
+      "target": "SPACEX",
+      "type": "supply_chain",
+      "label": "Satellite Chip Supplier (2020)",
+      "description": "Intel supplies processors and FPGAs used in SpaceX's Starlink satellite constellation.",
+      "year": 2020,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "KLAC",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Process control",
+      "description": "KLA supplies inspection and metrology tools for NVIDIA chip production.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "KLAC",
+      "target": "TSMC",
+      "type": "supply_chain",
+      "label": "Process Control Supplier",
+      "description": "KLA Corporation provides metrology and inspection systems vital for TSMC's manufacturing yields.",
+      "year": 2015,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "LRCX",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Wafer fabrication equipment",
+      "description": "Lam Research provides tools for NVIDIA semiconductor production.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "LRCX",
+      "target": "TSMC",
+      "type": "supply_chain",
+      "label": "Etch Equipment Supplier",
+      "description": "Lam Research supplies advanced wafer fabrication equipment, specifically etch systems, to TSMC.",
+      "year": 2015,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "META",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "AI model and cloud collaboration",
+      "description": "Meta selects Azure as strategic cloud provider and partners on Llama models.",
+      "year": 2022,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MRVL",
+      "target": "AMZN",
+      "type": "partnership",
+      "label": "Custom Cloud Silicon Design",
+      "description": "Marvell collaborates with Amazon to engineer custom components for AWS infrastructure, including Inferentia and Trainium chips.",
+      "year": 2020,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MRVL",
+      "target": "AMZN",
+      "type": "supply_chain",
+      "label": "Custom AI Chip Supplier (2023)",
+      "description": "Marvell collaborates with Amazon to design and supply custom AI training chips like Trainium.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MRVL",
+      "target": "GOOGL",
+      "type": "supply_chain",
+      "label": "Custom Chip Supplier (2023)",
+      "description": "Marvell supplies custom silicon and data center interconnects to Google Cloud.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MRVL",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Data center semiconductors",
+      "description": "Marvell supplies components supporting NVIDIA AI infrastructure.",
+      "year": 2024,
+      "confidence": "reported"
+    },
+    {
+      "source": "MSFT",
+      "target": "AAPL",
+      "type": "partnership",
+      "label": "Software & Cloud Integration (2023)",
+      "description": "Microsoft and Apple maintain a deep partnership, integrating Microsoft Office and iCloud services across iOS and macOS.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MSFT",
+      "target": "NVDA",
+      "type": "customer",
+      "label": "Azure AI infrastructure",
+      "description": "Microsoft Azure extensively uses NVIDIA GPUs for cloud AI services.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MSFT",
+      "target": "OPENAI",
+      "type": "investment",
+      "label": "Invested $13B+ (2023)",
+      "description": "Microsoft invested over $13 billion in OpenAI to accelerate its AI research and integrate its models into Microsoft products.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MSFT",
+      "target": "PLTR",
+      "type": "partnership",
+      "label": "Cloud & AI Partnership (2023)",
+      "description": "Palantir and Microsoft partnered to deploy Palantir's AIP platform on Microsoft Azure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MSFT",
+      "target": "SNOW",
+      "type": "partnership",
+      "label": "Cloud Partnership (2023)",
+      "description": "Snowflake and Microsoft expanded their strategic partnership to integrate Snowflake's data cloud with Azure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MU",
+      "target": "AMD",
+      "type": "supply_chain",
+      "label": "Memory Component Supplier",
+      "description": "Micron supplies server DRAM and HBM memory solutions for AMD Instinct accelerators.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "MU",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "HBM3E Supplier",
+      "description": "Micron supplies High Bandwidth Memory (HBM3E) used in NVIDIA's H200 and Blackwell AI accelerators.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NOW",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "Cloud Partnership (2023)",
+      "description": "ServiceNow and Microsoft expanded their partnership to bring ServiceNow workflows to Microsoft Teams and Azure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NOW",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "AI platform integration",
+      "description": "ServiceNow integrates NVIDIA AI for enterprise workflows.",
+      "year": 2024,
+      "confidence": "reported"
+    },
+    {
+      "source": "NVDA",
+      "target": "AAPL",
+      "type": "supply_chain",
+      "label": "TSMC capacity competition",
+      "description": "NVIDIA has become TSMC's largest customer, surpassing Apple in advanced node usage.",
+      "year": 2026,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "AMAT",
+      "type": "partnership",
+      "label": "Packaging Collaboration (2024)",
+      "description": "Nvidia and Applied Materials partnered to develop advanced packaging technologies for next-generation AI chips.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "AMD",
+      "type": "partnership",
+      "label": "Ecosystem collaboration",
+      "description": "NVIDIA provides guidance for using its GPUs with AMD EPYC CPUs in data centers.",
+      "year": 2024,
+      "confidence": "reported"
+    },
+    {
+      "source": "NVDA",
+      "target": "AMZN",
+      "type": "supply_chain",
+      "label": "AWS AI infrastructure",
+      "description": "Amazon Web Services deploys large-scale NVIDIA GPUs for AI training and inference.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "AMZN",
+      "type": "customer",
+      "label": "AWS Infrastructure Supplier",
+      "description": "Amazon AWS deploys NVIDIA Hopper and Blackwell architectures for its high-performance compute instances.",
+      "year": 2030,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "AVGO",
+      "type": "supply_chain",
+      "label": "Networking and custom silicon",
+      "description": "Broadcom supplies networking components and collaborates on AI infrastructure.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "CRM",
+      "type": "partnership",
+      "label": "AI agents collaboration",
+      "description": "Salesforce and NVIDIA partner on Agentforce with NVIDIA AI platform for enterprise AI agents.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "GOOGL",
+      "type": "customer",
+      "label": "Google Cloud Infrastructure Supplier",
+      "description": "Google Cloud integrates NVIDIA GPUs alongside its own TPUs to offer diverse AI training acceleration.",
+      "year": 2022,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "GOOGL",
+      "type": "supply_chain",
+      "label": "GPU Supplier (2023)",
+      "description": "Nvidia supplies high-end GPUs to Google Cloud for AI and machine learning workloads.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "INTC",
+      "type": "partnership",
+      "label": "Strategic AI superchip alliance",
+      "description": "NVIDIA invests $5B in Intel for next-gen AI collaborations and foundry support.",
+      "year": 2025,
+      "confidence": "reported"
+    },
+    {
+      "source": "NVDA",
+      "target": "META",
+      "type": "supply_chain",
+      "label": "Multi-year partnership for millions of GPUs and CPUs",
+      "description": "Meta deploys millions of NVIDIA Blackwell, Rubin GPUs, Grace CPUs and networking for AI data centers.",
+      "year": 2026,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "META",
+      "type": "customer",
+      "label": "Major GPU Buyer",
+      "description": "Meta is one of NVIDIA's largest customers, acquiring massive clusters of H100 and B200 GPUs for its AI clusters.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "MSFT",
+      "type": "customer",
+      "label": "Azure Infrastructure Supplier",
+      "description": "Microsoft purchases massive volumes of NVIDIA chips to power its Azure AI infrastructure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "MSFT",
+      "type": "supply_chain",
+      "label": "GPU Supplier (2023)",
+      "description": "Nvidia supplies high-end GPUs (H100, A100) to Microsoft for its Azure AI infrastructure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "MU",
+      "type": "partnership",
+      "label": "Memory Collaboration (2023)",
+      "description": "Nvidia and Micron collaborate closely on High Bandwidth Memory (HBM3E) for Nvidia's AI GPUs.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "ORCL",
+      "type": "partnership",
+      "label": "Multi-year AI infrastructure partnership",
+      "description": "Oracle and NVIDIA partner to deliver accelerated computing and AI in Oracle Cloud.",
+      "year": 2022,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "ORCL",
+      "type": "supply_chain",
+      "label": "GPU Supplier (2023)",
+      "description": "Nvidia supplies GPUs to Oracle Cloud Infrastructure (OCI) for its supercluster AI offerings.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "PLTR",
+      "type": "partnership",
+      "label": "Operational AI and Sovereign AI integration",
+      "description": "Palantir integrates NVIDIA accelerated computing, CUDA-X, and Nemotron models into its platform.",
+      "year": 2025,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "SNOW",
+      "type": "partnership",
+      "label": "AI data cloud integration",
+      "description": "NVIDIA and Snowflake collaborate on accelerated AI analytics and data processing.",
+      "year": 2024,
+      "confidence": "reported"
+    },
+    {
+      "source": "NVDA",
+      "target": "TSLA",
+      "type": "supply_chain",
+      "label": "GPU Supplier (2020)",
+      "description": "Tesla utilized thousands of Nvidia GPUs for training its Full Self-Driving (FSD) neural networks before transitioning to custom Dojo silicon.",
+      "year": 2020,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "NVDA",
+      "target": "TSLA",
+      "type": "customer",
+      "label": "FSD Supercomputer Core",
+      "description": "Tesla heavily relies on NVIDIA GPUs for training its Full Self-Driving (FSD) neural networks on the Dojo supercomputer.",
+      "year": 2021,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "OPENAI",
+      "target": "MSFT",
+      "type": "customer",
+      "label": "Cloud Customer (2023)",
+      "description": "OpenAI is a major customer of Microsoft Azure, utilizing its cloud infrastructure to train its large language models.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ORCL",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "Sovereign AI Cloud Alliance",
+      "description": "Oracle and NVIDIA partner to deliver sovereign AI infrastructure globally using Oracle Cloud Infrastructure.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "ORCL",
+      "target": "OPENAI",
+      "type": "customer",
+      "label": "OCI Infrastructure Capacity",
+      "description": "OpenAI utilizes Oracle Cloud Infrastructure (OCI) to extend capacity alongside Microsoft Azure for training/inference workloads.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "PANW",
+      "target": "GOOGL",
+      "type": "partnership",
+      "label": "Securing AI Cloud Ecosystem",
+      "description": "Palo Alto Networks selected Google Cloud as its preferred cloud provider, deeply integrating AI cybersecurity features.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "PANW",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "Security Partnership (2023)",
+      "description": "Palo Alto Networks and Microsoft integrated their security solutions, bringing Cortex XDR into Microsoft Sentinel.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "PANW",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "Cybersecurity for AI",
+      "description": "Palo Alto Networks partners with NVIDIA on AI-powered security solutions.",
+      "year": 2024,
+      "confidence": "reported"
+    },
+    {
+      "source": "PLTR",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "Cloud & AI Cloud Deployment",
+      "description": "Palantir partnered with Microsoft to deliver AI capabilities to the US Defense and Intelligence Community via Azure Government.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "QCOM",
+      "target": "MSFT",
+      "type": "partnership",
+      "label": "Copilot+ PC Alliance",
+      "description": "Qualcomm partnered with Microsoft to launch the Copilot+ PC ecosystem using Snapdragon X Elite processors.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "QCOM",
+      "target": "MSFT",
+      "type": "supply_chain",
+      "label": "Processor Supplier (2024)",
+      "description": "Qualcomm supplies its Snapdragon X Elite processors for Microsoft's new line of Copilot+ Windows laptops.",
+      "year": 2024,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "QCOM",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "AI and edge computing",
+      "description": "Qualcomm and NVIDIA collaborate on AI solutions for various sectors.",
+      "year": 2024,
+      "confidence": "reported"
+    },
+    {
+      "source": "SNOW",
+      "target": "NVDA",
+      "type": "partnership",
+      "label": "Snowflake Cortex Integration",
+      "description": "Snowflake partners with NVIDIA to integrate NeMo frameworks natively within the Snowflake Data Cloud.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "STX",
+      "target": "AMZN",
+      "type": "customer",
+      "label": "AWS Cloud Storage Supplier",
+      "description": "Seagate supplies high-density mass storage drives to Amazon Web Services for its cloud infrastructure footprint.",
+      "year": 2017,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "STX",
+      "target": "MSFT",
+      "type": "supply_chain",
+      "label": "Storage Supplier (2023)",
+      "description": "Seagate supplies enterprise hard drives to Microsoft Azure for mass data storage.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "STX",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Storage for AI",
+      "description": "Seagate provides high-capacity storage solutions optimized for AI workloads.",
+      "year": 2024,
+      "confidence": "reported"
+    },
+    {
+      "source": "TSLA",
+      "target": "NVDA",
+      "type": "customer",
+      "label": "Major AI customer",
+      "description": "Tesla is a major customer of NVIDIA GPUs for autonomous driving and AI training.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "TSMC",
+      "target": "AAPL",
+      "type": "supply_chain",
+      "label": "Exclusive Silicon Foundry",
+      "description": "TSMC is the exclusive manufacturer of Apple's A-series and M-series custom silicon processors.",
+      "year": 2014,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "TSMC",
+      "target": "AMD",
+      "type": "supply_chain",
+      "label": "Foundry Partner (2023)",
+      "description": "TSMC manufactures AMD's CPUs and GPUs, including the MI300 AI accelerator, on advanced process nodes.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "TSMC",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Foundry Partner (2023)",
+      "description": "TSMC manufactures the vast majority of Nvidia's advanced AI GPUs using its 4nm and 5nm nodes.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "WDC",
+      "target": "MSFT",
+      "type": "customer",
+      "label": "Data Center Storage Supplier",
+      "description": "Western Digital provides high-capacity enterprise HDD and SSD storage solutions to Microsoft Azure datacenters.",
+      "year": 2018,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "WDC",
+      "target": "MSFT",
+      "type": "supply_chain",
+      "label": "Storage Supplier (2023)",
+      "description": "Western Digital supplies high-capacity hard drives and SSDs to Microsoft Azure data centers.",
+      "year": 2023,
+      "confidence": "confirmed"
+    },
+    {
+      "source": "WDC",
+      "target": "NVDA",
+      "type": "supply_chain",
+      "label": "Storage solutions",
+      "description": "Western Digital supplies storage for NVIDIA AI data centers.",
+      "year": 2024,
+      "confidence": "reported"
+    }
+  ],
+  "companies": {
+    "ANTHROPIC": {
+      "name": "Anthropic",
+      "sector": "AI Research & Safety",
+      "is_ai": true
+    },
+    "ARM": {
+      "name": "ARM Holdings",
+      "sector": "IP Semiconductor Licensing",
+      "is_ai": false
+    },
+    "ASML": {
+      "name": "ASML Holding",
+      "sector": "Semiconductor Lithography Equipment",
+      "is_ai": false
+    },
+    "OPENAI": {
+      "name": "OpenAI",
+      "sector": "AI Research",
+      "is_ai": true
+    },
+    "SPACEX": {
+      "name": "SpaceX",
+      "sector": "Aerospace & Satellite",
+      "is_ai": false
+    },
+    "TSMC": {
+      "name": "TSMC",
+      "sector": "Semiconductor Manufacturing",
+      "is_ai": false
+    }
+  },
+  "relationship_types": {
+    "investment": {
+      "color": "#fbbf24",
+      "label": "Investment"
+    },
+    "supply_chain": {
+      "color": "#34d399",
+      "label": "Supply Chain"
+    },
+    "partnership": {
+      "color": "#60a5fa",
+      "label": "Partnership"
+    },
+    "customer": {
+      "color": "#f472b6",
+      "label": "Customer"
+    }
+  }
+}
